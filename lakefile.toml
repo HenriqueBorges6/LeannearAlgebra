@@ -1,0 +1,10 @@
+name = "LeannearAlgebra"
+version = "0.1.0"
+defaultTargets = ["leannearalgebra"]
+
+[[lean_lib]]
+name = "LeannearAlgebra"
+
+[[lean_exe]]
+name = "leannearalgebra"
+root = "Main"
